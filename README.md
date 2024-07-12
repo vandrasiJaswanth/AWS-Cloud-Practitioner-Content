@@ -1,3 +1,4 @@
+# AWS-Cloud-Practitioner-Content
 AWS-Cloud-Practitioner-Content
 Notes compilation based on AWS E-Learning lessons and transcripts.
 
@@ -21,4 +22,4 @@ Module 12 - Final Assessment
 
 Last updated: 27th August 2022
 
-# AWS-Cloud-Practitioner-Content
+
